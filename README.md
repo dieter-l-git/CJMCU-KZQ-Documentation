@@ -16,7 +16,7 @@ they are working fine for me.
 There are ISP pins for use with an AVRISP mkII programmer or
 similar on the board, but you need to build a special adapter for this.
 
-You can use this as you want.
+You can use the files in this repo like you want with no warranty.
 I will be happy if you send me a postcard.
 In this case ask for my postal address 
 via dieter-l-git(at)gmx.de.
