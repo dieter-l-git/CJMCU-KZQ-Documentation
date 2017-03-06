@@ -8,7 +8,7 @@ Now this board is usable with the Arduino IDE.
 
 The board is like an Pro mini board, you need an 
 USB to serial adapter.
-Please be caeful with the cheap FTDI adapters.
+Please be careful with the cheap FTDI adapters.
 a lot of them are fake chips which doesn't work corecct
 I tested some adapters with the Silabs CP2102,
 they are working fine for me.
@@ -16,6 +16,6 @@ they are working fine for me.
 You can use this as you want.
 I will be happy if you send me a postcard.
 In this case ask for my postal address 
-via dieter-l-git@gmx.de.
+via dieter-l-git(at)gmx.de.
  
 
