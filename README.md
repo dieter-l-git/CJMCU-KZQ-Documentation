@@ -8,8 +8,6 @@ Now this board is usable with the Arduino IDE.
 
 The board is like an Pro mini board, you need an 
 USB to serial adapter.
-There are ISP pins for use with an AVRISP mkII programmer
-on the board, but you need to build a special adapter for this.
 Please be careful with the cheap FTDI adapters.
 a lot of them has fake chips which doesn't work correct.
 I tested some adapters with the Silabs CP2102,
