@@ -1,0 +1,39 @@
+﻿# @itemType@=boards
+# @ArduinoIDECompatibility@=1.5
+
+menu.cpu=cpu
+
+##############################################################
+
+
+pro.name=CJMCU-KZQ
+pro.build.core=arduino
+pro.build.variant=eightanaloginputs
+pro.build.board=AVR_PRO
+pro.upload.tool=avrdude
+pro.upload.protocol=arduino
+pro.bootloader.tool=avrdude
+pro.bootloader.unlock_bits=0x3F
+pro.bootloader.lock_bits=0x0F
+# CJMCU-KZQ (5V, 16 MHz) w/ ATmega328P Optiboot 512k
+# --------------------------------------------------
+pro.menu.cpu.CJMCU-KZQ=ATmega328 (5V, 16 MHz, Optiboot 512b)
+pro.menu.cpu.CJMCU-KZQ.build.mcu=atmega328p
+pro.menu.cpu.CJMCU-KZQ.build.f_cpu=16000000L
+pro.menu.cpu.CJMCU-KZQ.upload.maximum_size=32256
+pro.menu.cpu.CJMCU-KZQ.upload.speed=57600
+pro.menu.cpu.CJMCU-KZQ.upload.maximum_data_size=2048
+pro.menu.cpu.CJMCU-KZQ.bootloader.low_fuses=0xFF
+pro.menu.cpu.CJMCU-KZQ.bootloader.high_fuses=0xDC
+pro.menu.cpu.CJMCU-KZQ.bootloader.extended_fuses=0xFD
+pro.menu.cpu.CJMCU-KZQ.bootloader.file=optiboot512.hex
+pro.menu.cpu.CJMCU-KZQ-original=ATmega328 (5V, 16 MHz, Bootload 1k)
+pro.menu.cpu.CJMCU-KZQ-original.build.mcu=atmega328p
+pro.menu.cpu.CJMCU-KZQ-original.build.f_cpu=16000000L
+pro.menu.cpu.CJMCU-KZQ-original.upload.maximum_size=30256
+pro.menu.cpu.CJMCU-KZQ-original.upload.speed=57600
+pro.menu.cpu.CJMCU-KZQ-original.upload.maximum_data_size=2048
+pro.menu.cpu.CJMCU-KZQ-original.bootloader.low_fuses=0xFF
+pro.menu.cpu.CJMCU-KZQ-original.bootloader.high_fuses=0xDA
+pro.menu.cpu.CJMCU-KZQ-original.bootloader.extended_fuses=0xFD
+
