@@ -2,7 +2,7 @@
 Documentation for the CJMCU-KZQ board 
 
 I bought some CJMCU-KZQ boards from banggood - and found no documentation.
-So I my small free time I make a schematic, compile an optiboot bootloader,
+So in my small free time I make a schematic, compile an optiboot bootloader,
 write a boards.txt and make a custom hardware directory for this board.
 Now this board is usable with the Arduino IDE.
 
