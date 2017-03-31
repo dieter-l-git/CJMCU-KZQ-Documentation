@@ -1,0 +1,45 @@
+{
+  "packages": [
+    {
+      "name": "CJMCU-KZQ",
+      "maintainer": "dieter-l-git",
+      "websiteURL": "https://github.com/dieter-l-git/CJMCU-KZQ-Documentation/",
+      "email": "dieter-l-git@gmx.de",
+      "help": {
+        "online": "https://github.com/dieter-l-git/CJMCU-KZQ-Documentation/"
+      },
+      "platforms": [
+        {
+          "name": "CJMCU-KZQ",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/dieter-l-git/CJMCU-KZQ-Documentation/"
+          },
+          "url": "https://github.com/dieter-l-git/CJMCU-KZQ-Documentation/CJMCU-KZQ-1.0.0.zip",
+          "archiveFileName": "CJMCU-KZQ-1.0.0.zip",
+          "checksum": "SHA-256:d80b2463541e9bd0f5710692fd04bc6b97c40c36707c2dfb72b5e5efa459bb2e",
+          "size": "1680",
+          "boards": [
+            { "name": "CJMCU-KZQ-Optiboot-512B" },
+            { "name": "CJMCU-KZQ-Bootloader-1K" }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
