@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/dieter-l-git/CJMCU-KZQ-Documentation/raw/master/CJMCU-KZQ-1.0.0.zip",
           "archiveFileName": "CJMCU-KZQ-1.0.0.zip",
-          "checksum": "SHA-256:d80b2463541e9bd0f5710692fd04bc6b97c40c36707c2dfb72b5e5efa459bb2e",
-          "size": "1680",
+          "checksum": "SHA-256:46316f8bda0e803e0cf27dc4c4d7e84f14095a3de3cfc9dfad82517210071f08",
+          "size": "4954",
           "boards": [
             { "name": "CJMCU-KZQ-Optiboot-512B" },
             { "name": "CJMCU-KZQ-Bootloader-1K" }
