@@ -3,8 +3,8 @@
     {
       "name": "CJMCU-KZQ",
       "maintainer": "dieter-l-git",
-      "websiteURL": "https://github.com/dieter-l-git/CJMCU-KZQ-Documentation/",
-	  "email": "dieter-l-git@gmx.de",
+      "websiteURL": "https://dieter-l-git.github.io/CJMCU-KZQ-Documentation/",
+      "email": "dieter-l-git@gmx.de",
       "help": {
         "online": "https://github.com/dieter-l-git/CJMCU-KZQ-Documentation/"
       },
@@ -17,7 +17,7 @@
           "help": {
             "online": "https://github.com/dieter-l-git/CJMCU-KZQ-Documentation/"
           },
-          "url": "https://github.com/dieter-l-git/CJMCU-KZQ-Documentation/CJMCU-KZQ-1.0.0.zip",
+          "url": "https://github.com/dieter-l-git/CJMCU-KZQ-Documentation/raw/master/CJMCU-KZQ-1.0.0.zip",
           "archiveFileName": "CJMCU-KZQ-1.0.0.zip",
           "checksum": "SHA-256:d80b2463541e9bd0f5710692fd04bc6b97c40c36707c2dfb72b5e5efa459bb2e",
           "size": "1680",
