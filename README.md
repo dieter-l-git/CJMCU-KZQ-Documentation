@@ -2,7 +2,7 @@
 Documentation for the CJMCU-KZQ board 
 
 I bought some CJMCU-KZQ boards from banggood - and found no documentation.
-So in my small free time I make a schematic, compile an optiboot bootloader,
+So in my small free time I made a schematic, compile an optiboot bootloader,
 write a boards.txt and make a custom hardware directory for this board.
 Now this board is usable with the Arduino IDE.
 
@@ -17,6 +17,7 @@ There are ISP pins for use with an AVRISP mkII programmer or
 similar on the board, but you need to build a special adapter for this.
 
 NEWS 
+
 10.01.2018:
 Tested with Arduino IDE 1.8.5 - works.
 Added new installation howto pdf.
