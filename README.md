@@ -16,11 +16,17 @@ they are working fine for me.
 There are ISP pins for use with an AVRISP mkII programmer or
 similar on the board, but you need to build a special adapter for this.
 
-NEWS 02.04.2017:
+NEWS 
+10.01.2018:
+Tested with Arduino IDE 1.8.5 - works.
+Added new installation howto pdf.
+
+02.04.2017:
 JSON Package and zip File for easy installing with Arduino Boardmanager.
 Based on 1.6.18
 Add the following link to Preferences/Boardmanager-URL's:
 https://github.com/dieter-l-git/CJMCU-KZQ-Documentation/raw/master/package_CJMCU-KZQ_index.json
+
 
 You can use the files in this repo like you want with no warranty.
 I will be happy if you send me a postcard.
